@@ -32,3 +32,12 @@ git compare
 ```
 
 Plus loads of other goodness.. see <https://hub.github.com/hub.1.html> for all the commands
+
+## FZF Fuzzy Command Line Search ##
+
+This tool is very nice, and I use it's features constantly. The best feature for me is the enhanced `Ctrl+R` support. Type the start of the command and press `Ctrl+R` brings up selectable list of recent commands which you are able to search. It also does similar things when looking for files and switching directories. Check it out at <https://github.com/junegunn/fzf>
+
+## Command line git viewer ##
+
+`tig` is a great tool for seeing the commits, branches and diffs visually without leaving the command line. More here <https://github.com/jonas/tig>
+
