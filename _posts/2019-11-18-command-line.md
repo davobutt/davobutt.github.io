@@ -41,3 +41,6 @@ This tool is very nice, and I use it's features constantly. The best feature for
 
 `tig` is a great tool for seeing the commits, branches and diffs visually without leaving the command line. More here <https://github.com/jonas/tig>
 
+## Another bunch of command line tips ##
+
+This article is worth a look if you love using the command line <https://remysharp.com/2018/08/23/cli-improved>
