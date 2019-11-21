@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<style>
+  ul#menu {padding-inline-start: 0;}
+  ul#menu li {display:inline;}
+  </style>
+<ul id="menu">
+   {% for item in site.data.menulist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li> /
+   {% endfor %}
+      <li><a href="#">{{ page.title }}</a></li>
+</ul>
+
+{{ content }}
